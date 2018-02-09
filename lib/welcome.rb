@@ -1,2 +1,1 @@
-lib/welcome.rb
-puts Welcome_to_Tic_Tac_Toe!
+puts "Welcome_to_Tic_Tac_Toe!"
